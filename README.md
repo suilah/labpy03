@@ -30,6 +30,7 @@ Pertama masukkan perintah dibawah ini:
 
 setelah program sederhana dijalankan seorang investor itu mendapatkan laba terkecil pada bulan ke-3 dan ke-4 dan mendapatkan laba terbesar pada bulan ke-5, ke-6 dan ke-7
 Disini Saya menggunakan Fungsi Perulangan FOR dan menggunakan Fungsi IF
+
 • OUTPUT
 ![tugas jadi03](https://user-images.githubusercontent.com/46734869/52914798-36dccc80-32ff-11e9-89bf-dbd508f23c13.jpg)
 
