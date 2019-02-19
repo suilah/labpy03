@@ -2,7 +2,7 @@
 LATIHAN 01
 Program menentukan bilangan acak lebih kecil dari 0.5
 INPUT
-Pertama kita masukkan langkah seperti dibawah ini :
+Pertama masukkan langkah seperti dibawah ini
 ![latihan1](https://user-images.githubusercontent.com/46734869/53008460-0c5c5200-346c-11e9-9f5b-4a10719d2694.jpg)
 Disini saya menggunakan fungsi import random untuk menentukan bilangan acaknya dan menggunakan fungsi For 
 Import random : fungsi ini akan mengembalikkan bilangan float random x, dimana 0<x<1. Fungsi random tidak memiliki parameter masukkan.
